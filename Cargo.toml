@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["Andy Lowry <andy@andylowry.me.uk>"]
 
 [dependencies]
+tsz = "*"
+chrono = "*"
+byteorder = "*"
